@@ -1,10 +1,10 @@
 # airbnb-clone
-
+**project  under developement**\
 Airbnb Clone using react js
 
 # Demo https://airbnb-007.web.app/
 
-# features
+# features need to be implemented
 
 1.booking system\
 2.favorites marking\
